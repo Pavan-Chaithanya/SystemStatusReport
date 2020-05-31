@@ -1,4 +1,5 @@
 System Status Report brings notification to your shell. It can automatically provide desktop notifications when long-running commands finish or it can send push notifications to your phone when a specific command finishes.
+
 Quickstart
 ----------
 
